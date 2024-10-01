@@ -44,7 +44,6 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GASH962408&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&locale=es_ES)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GASH962408&theme=radical&hide_border=false&date_format=M%2FD%2FY)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GASH962408&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=10)
 
