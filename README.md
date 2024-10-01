@@ -8,7 +8,7 @@
 # 💫About Me :
 🔭 I’m currently working on my github page : https://GASH962408
   
-🌱 I’m currently learning : Ruby on Rails
+🌱 I’m currently learning : Angular
 
   👯 I’m looking for a Job as a Full Stack Developer
   
@@ -43,10 +43,11 @@
 ![Stimulus](https://img.shields.io/badge/stimulus-%23E10098.svg?style=for-the-badge&logo=stimulus&logoColor=white)
 
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=CodeWhiteWeb&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CodeWhiteWeb&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWhiteWeb&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=GASH962408&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&locale=es_ES)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=GASH962408&theme=radical&hide_border=false&date_format=M%2FD%2FY)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GASH962408&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=10)
+
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CodeWhiteWeb&theme=discord&no-frame=false&no-bg=false&margin-w=4)
