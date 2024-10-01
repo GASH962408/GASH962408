@@ -2,7 +2,7 @@
   Welcome to Code Gustavo's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-<p align="center"> <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"> <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=I+am+mechatronics+engineer;Full+stack+developer;Dev+AI;Leetcode+lover"> </a> </p>
+<p align="center"> <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"> <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=I+am+Mechatronics+engineer;Full+Stack+Developer;Le Wagon+graduate;Leetcode+algorithm+lover"> </a> </p>
 ---
 <div align="center">
   
