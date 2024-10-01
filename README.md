@@ -49,17 +49,14 @@
 
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GASH962408&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=CodeWhiteWeb&theme=discord&no-frame=false&no-bg=false&margin-w=4) esto lo peudes actualizar? 
 
-### 📕 Latest Blog Posts
+<!-- ### 📕 Latest Blog Posts-->
 
-<!-- BLOG-POST-LIST:START -->
- [10 must have 3rd party services for all websites](https://dev.to/codewhiteweb/10-must-have-3rd-party-services-for-all-websites-584m)
-  
- [Best Google Fonts for your website](https://dev.to/codewhiteweb/best-google-fonts-for-your-website-3e5k)
-<!-- BLOG-POST-LIST:END -->
+<!--  [10 must have 3rd party services for all websites](https://dev.to/codewhiteweb/10-must-have-3rd-party-services-for-all-websites-584m)-->
+<!--  [Best Google Fonts for your website](https://dev.to/codewhiteweb/best-google-fonts-for-your-website-3e5k)-->
 
-➡️ [more blog posts...](https://dev.to/codewhiteweb)
+<!-- ➡️ [more blog posts...](https://dev.to/codewhiteweb)  -->
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
@@ -69,5 +66,5 @@
 ![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
 ![](https://forthebadge.com/images/badges/uses-brains.svg)
 ---
-![](https://komarev.com/ghpvc/?username=CodeWhiteWeb&label=Visitors+Count&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=GASH962408&label=Visitors+Count&color=brightgreen)
 </div>
